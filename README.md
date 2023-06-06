@@ -7,7 +7,7 @@ sections of build.xml that I don't care about for that particular
 project, set the project properties, clear out the sample sources, and
 get to work.
 
-## Setup
+## Setupvfegregreg
 
 Building this project requires that Ivy be available to Ant. All you
 need is ivy.jar in Ant's classpath (in your `$CLASSPATH`,
